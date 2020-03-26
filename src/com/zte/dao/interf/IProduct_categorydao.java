@@ -1,0 +1,10 @@
+package com.zte.dao.interf;
+
+import java.util.ArrayList;
+
+public interface IProduct_categorydao {
+ /**±ÍÃ‚≤È—Ø
+ * @return
+ */
+public ArrayList <Object> getAllcategory();
+}
